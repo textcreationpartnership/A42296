@@ -1,0 +1,519 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A guide to young communicants: or, The whole duty of the sacrament fitted for those that desire to be worthy receivers of the Lords Supper: with suitable prayers, for morning and evening. Also directions for a holy living and dying. A dialogue between a divine and a beggar. And a description of Christ's person when on earth. To which is added, Bishop Usher's prophecy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42296</idno>
+            <idno type="STC">Wing G2187B</idno>
+            <idno type="STC">ESTC R223701</idno>
+            <idno type="EEBO-CITATION">99833986</idno>
+            <idno type="PROQUEST">99833986</idno>
+            <idno type="VID">38465</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38465)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1833:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A guide to young communicants: or, The whole duty of the sacrament fitted for those that desire to be worthy receivers of the Lords Supper: with suitable prayers, for morning and evening. Also directions for a holy living and dying. A dialogue between a divine and a beggar. And a description of Christ's person when on earth. To which is added, Bishop Usher's prophecy.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fourth edition.</edition>
+               </editionStmt>
+               <extent>[2], 22   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. C. at the Ring in Little-Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Note on verso of title page reads in part: "was wrote (as I was inform'd by Dr. J. Bishop of L-n." Possibly written by Dr. James Gardiner, who was Bishop of Lincoln, 1695-1705.</note>
+                  <note>Date of publication conjectured by Wing.</note>
+                  <note>Includes a brief account of the Spanish Armada.</note>
+                  <note>Imperfect; some pages stained.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>First communion --  Early works to 1800.</term>
+               <term>Children --  Religious life --  Early works to 1800.</term>
+               <term>Lord's Supper --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38465:1" rendition="simple:additions"/>
+            <p>A Guide to Young Communicants: Or, The Whole Duty of the Sacrament, Fitted for thoſe that Deſire to be WORTHY RECEIVERS OF THE Lords Supper: With Suitable PRAYERS, For Morning and Evening.</p>
+            <p>Alſo Directions for a Holy Living <hi>and</hi> Dying.</p>
+            <p>A Dialogue between a Divine <hi>and a</hi> Beggar.</p>
+            <p>And a Deſcription of CHRIST'S Perſon when on Earth.</p>
+            <p>To which is added, Biſhop <hi>USHER</hi>'s Prophecy.</p>
+            <p>The Fourth Edition.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. C.</hi> at the <hi>Ring</hi> in <hi>Little-Britain.</hi> Price 2 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:38465:2"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THis little Book was printed for the Uſe of an Ho<g ref="char:EOLhyphen"/>nourable Lady, and was wrote (as I was inform'd by Dr. <hi>J.</hi> Biſhop of <hi>L—n.</hi> It has found a kind Re<g ref="char:EOLhyphen"/>ception, and many of them have been diſtributed among the Poor. It contains what is neceſſary to be known on this Occaſion, ſufficiently explaining what the <hi>Communion</hi> or <hi>Sacrament</hi> of the <hi>New Teſtament</hi> is, and what is meant thereby; ſhowing plainly what is to be done <hi>at, before,</hi> and <hi>after</hi> Receiving. Indeed that which makes all People Worthy Communicants, or truly prepares for this Duty, is a Holy Life; it does not require ſo much Head-Know<g ref="char:EOLhyphen"/>ledge, as a ſincere Heart devoted to God. A God-like or Chriſt-like Life is the beſt Qualification: True Repen<g ref="char:EOLhyphen"/>tance, or forſaking Sins paſt, and hearty Obedience to what God manifeſts or diſcovers in the inward of thy Heart, to be thy Duty: This muſt be done by thee, who<g ref="char:EOLhyphen"/>ever thou art, th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t would come rightly prepar'd to Re<g ref="char:EOLhyphen"/>ceive the Lord's Supper. For thy Aſſiſtance herein, I re<g ref="char:EOLhyphen"/>commend to thee this little Book.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>A Guide to young Communicants, with Meditations for every Day of the Week; to which is added, a Hiſtory of <hi>Riches, Poverty, Godlineſs, Labour,</hi> and <hi>Con<g ref="char:EOLhyphen"/>tent.</hi> Bp <hi>Uſher</hi>'s Prophecy; an Account of <hi>Popiſh</hi> Per<g ref="char:EOLhyphen"/>ſecutions, with other matters. <hi>Pr.</hi> ſtitcht 4 <hi>d.</hi> bd 6 <hi>d.</hi>
+            </p>
+            <p>A Guide to the Altar, with Prayers for Morning and Evening, and other Occaſions; to which is ad<g ref="char:EOLhyphen"/>ded, The Practice of the Faithful. 1 <hi>s.</hi>
+            </p>
+            <p>A Spark from the Altar; or, Preparation for the Sacrament: <hi>Pr.</hi> 6 <hi>d.</hi> A Bundle of Myrrh. <hi>Pr.</hi> 1 <hi>d.</hi>
+            </p>
+            <p>The pious Man's Directions, ſhewing how to walk with God all his Days, <hi>&amp;c. Pr.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The Child's Weeks-work, and Father's Bleſſing, 6<hi>d.</hi>
+            </p>
+            <p>
+               <hi>England</hi>'s Reformation, againſt Drunkenneſs, Glut<g ref="char:EOLhyphen"/>tony, Whoredom, Fornication, Curſing, Swearing, <hi>&amp;c.</hi> with Examples of God's Judgments on ſuch as uſe them. <hi>Pr.</hi> 1 <hi>d.</hi>
+            </p>
+            <p>The Tryal and Execution of <hi>Joan Perry</hi> &amp; her two Sons, in <hi>Glouceſterſhire;</hi> very ſtrange and true. <hi>Pr.</hi> 2 <hi>d.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:38465:2"/>
+            <head>A Week's Preparation for a Worthy Communicant.</head>
+            <div type="questions_and_answers">
+               <p>Queſt. 1. <hi>WHAT is the Communion?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It is the ſecond Sacrament of the <hi>New Teſtament,</hi> wherein (by the outward Recei<g ref="char:EOLhyphen"/>ving the Bread and Wine) is ſignified the inward and ſpiritual Receiving of the Body and Blood of Jeſus Chriſt; that is, of all the Benefits of his Incarnation and Sufferings.</p>
+               <p>Q 2. <hi>Why do we Receive the Communion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> For four Reaſons eſpecially.</p>
+               <p n="1">1. Becauſe Chriſt, in the Inſtitution of it, did ex<g ref="char:EOLhyphen"/>preſly command it, <hi>Do this in remembrance of me,</hi> Luk. 22.19. which is alſo repeated and enjoin'd by St. <hi>Paul</hi> in his firſt Epiſtle to the <hi>Corinthians,</hi> chap. 11, from the 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to the 29th verſe.</p>
+               <p n="2">2. To teſtifie our unfeigned Love to GOD, and Charity to all Men.</p>
+               <p n="3">3. To ſhew our thankful Hearts for God's unſpeaka<g ref="char:EOLhyphen"/>ble Mercy in it. <hi>Abraham</hi> reckoned himſelf unwor<g ref="char:EOLhyphen"/>thy to ſpeak with God: <hi>Moſes</hi> thought himſelf unfit to be ſent to <hi>Pharaoh:</hi> And behold! God himſelf enter<g ref="char:EOLhyphen"/>tains us as Gueſts at a Holy Feaſt of the richeſt and moſt coſtly Dainties, provided by himſelf for us. And what can be ſufficient for ſinful Creatures to return in Gratitude for ſuch endearing Love and Condeſcen<g ref="char:EOLhyphen"/>ſion!</p>
+               <p n="4">4. Becauſe of the great Advantage and Benefit we receive by taking of it worthily.</p>
+               <p>The Benefit we receive in this Sacrament does chiefly conſiſt in theſe four Particulars.</p>
+               <p n="1">1. We are by this Sacrament united to Chriſt, and
+<pb n="2" facs="tcp:38465:3"/> made one with him: for as the Bread and Wine be<g ref="char:EOLhyphen"/>comes one with our Bodies, ſo by this Sacrament we become one with Chriſt.</p>
+               <p n="2">2. To ſtrengthen and encreaſe our Faith and Re<g ref="char:EOLhyphen"/>pentance; for in this Sacrament we do, as it were, ſee <hi>Chriſt Crucified before our Eyes,</hi> Gal. 3.1. When the Bread is Broken, it puts me in mind how the Bleſſed Body of my Saviour was Torn and Wounded before <hi>Pontius Pilate,</hi> upon the Croſs: and when the Wine is poured forth into the Cup, it ſhews how the preci<g ref="char:EOLhyphen"/>ous Blood of Jeſus Chriſt was abundantly ſhed for our Sins: And when the Miniſter reaches me the Bread and Wine, it ſheweth me his beloved Son is to be re<g ref="char:EOLhyphen"/>ceived and embraced by me, and that through his Me<g ref="char:EOLhyphen"/>rits and Interceſſion we are reconciled unto him.</p>
+               <p n="3">3. By this Sacrament, we become united to our Chriſtian Brethren: for it is a Feaſt of Love, where we profeſs hearty Affection to all the People of God; ſincerely deſiring and ſeeking the Welfare of his Church, putting up our devouteſt Prayers for our Fellow Chriſtians, and forgiving, if we have ought a<g ref="char:EOLhyphen"/>gainſt any of them, as God, for Chriſt's ſake, hath forgiven us. And,</p>
+               <p n="4">4. We hereby receive the Aſſurance of Pardon and Remiſſion for all our paſt Tranſgreſſions, and a Con<g ref="char:EOLhyphen"/>firmation and Encreaſe of all Chriſtian Graces: for this Sacrament is a Seal of our Covenant with God, aſſuring and ſealing to us (upon the Conditions of true and hearty Repentance, <hi>&amp;c.</hi>) the Pardon of all our Sins, and a comfortable Aſſurance of Eternal Life and Salvation, and it is an Inſtrument or Means whereby we receive Grace and Strength to ſerve God more freely and chearfully ever after. In a word, it gives us a Title and Intereſt to all the Bleſſings obtained by Chriſt Jeſus.</p>
+               <p>The very Names given to the Sacrament in the <hi>New-Teſtament</hi> declare unto us the Nature of it, and the Bleſſing we receive by it, which are theſe ſix:</p>
+               <p n="1">1. It's call'd <hi>the Communion,</hi> or <hi>Communication of the
+<pb n="3" facs="tcp:38465:3"/> Body and Blood of Chriſt;</hi> that is, (as was ſaid before) of all the <hi>Benefits</hi> of his Life and Sufferings, 1 <hi>Cor.</hi> 10.26.</p>
+               <p n="2">2. It is called, <hi>The Lords Supper,</hi> 1 Cor. 11.20. as our Lord inſtituted it after he ſupt with his Diſciples.</p>
+               <p n="3">3. It is call'd <hi>The Lord's Table</hi> on the ſame account, 1 <hi>Cor.</hi> 10.21.</p>
+               <p n="4">4. It is call'd <hi>Breaking of Bread,</hi> Acts 2.40. to de<g ref="char:EOLhyphen"/>note Charity.</p>
+               <p n="5">5. It is call'd <hi>The Laſt Will of Chriſt,</hi> or <hi>The New Teſtament,</hi> Mat. 26.28. <hi>viz.</hi> wherein he bequeaths to us Life and Salvation.</p>
+               <p n="6">6. It is call'd <hi>The Cup of Bleſſing;</hi> that is, of Praiſe and Thankſgiving, 1 <hi>Cor.</hi> 10.16. It is alſo call'd the <hi>Euchariſt,</hi> which ſignifies the ſame thing.</p>
+               <p>Q. 3. <hi>What is requir'd of a Chriſtian, that he may be<g ref="char:EOLhyphen"/>come a</hi> Worthy Communicant?</p>
+               <p>
+                  <hi>A.</hi> Three ſorts of Duties: 1. Somewhat to be done before we receive the Communion. 2. Our Duties at Receiving. And, 3. Our Duties afterwards.</p>
+               <p>Q. 4. <hi>What is expected before we receive the</hi> Com<g ref="char:EOLhyphen"/>munion?</p>
+               <p>
+                  <hi>A.</hi> To examin and prepare ourſelves beforehand; this God hath commanded: And we can't be aſſured that without ſuch Examination we ſhall be welcome Gueſts at the Lord's Table. See to this purpoſe 1 <hi>Cor.</hi> 11.28, 29. For tho' a true <hi>Chriſtian</hi> ought always to be fitted for the performance of ſo holy a Duty to God, which is call'd <hi>Habitual Preparation,</hi> yet in regard of our daily Errors and Miſcarriages, we ſhould prepare and examin our ſelves in a ſtricter way, whenever we intend to receive: And this is call'd <hi>Actual Prepara<g ref="char:EOLhyphen"/>tion;</hi> which is a ſerious Tryal and Examination of our State, how we ſtand affected toward GOD and Man.</p>
+               <p>Q. 5. <hi>Wherein muſt we examin our ſelves?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In theſe Five Things, <hi>viz.</hi> Knowledge, Faith, Repentance, Charity, and Obedience.</p>
+               <p>Q. 6. <hi>How muſt I examin my Knowledge?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I muſt try, 1. Whether I underſtand the Nature of this Sacrament, and the Neceſſity of Receiving it.
+<pb n="4" facs="tcp:38465:4"/> 
+                  <hi>The Knowledge here requir'd is plain and eaſy, and may be learnt from the Anſwers to the firſt and ſecond Queſtions.</hi> 2. I muſt examin how much I have profited &amp; grown in Grace and Knowledge; and if I have not profited, Whether, 3. I am ſorry for my want of Knowledge, or Faith, or other Heavenly Graces.</p>
+               <p>Q. 7. <hi>How muſt I examin my</hi> Faith?</p>
+               <p>
+                  <hi>A.</hi> I muſt try, 1. Whether I rely on Chriſt alone for Salvation; yet ſo, as not to neglect my Endeavours: and, Whether I depend on him only in time of inter<g ref="char:EOLhyphen"/>nal or external Temptation. 2. Whether I believe that God, on my Repentance, will freely (for Chriſt's ſake) forgive and blot out all my Sins. 3. Whether I long for ſuch a ſtrong and lively Faith, ſuch a firm Be<g ref="char:EOLhyphen"/>lief of God's Word, as may influence my Heart and Practice, and transform me into the Image of Him, who is the Author and Finiſher of our Faith.</p>
+               <p>Q. 8. <hi>How muſt I examin my</hi> Repentance?</p>
+               <p>
+                  <hi>A.</hi> I muſt try, 1. Whether I am ſorry for my Sins paſt. 2. Whether I am willing in good earneſt to for<g ref="char:EOLhyphen"/>ſake 'em, and live a better Life for the future, aiming at the <hi>Life</hi> and <hi>Power</hi> of Religion. 3. Whether I am willing to make Reſtitution for the Injuries I have done, and for whatever I have unjuſtly taken from any, becauſe without <hi>this</hi> there can be no <hi>True Repentance.</hi> 4. Whether I like thoſe Sermons which reach to my Conſcience, and bring me to the ſight of my Sins.</p>
+               <p>Q. 9. <hi>How muſt I examin my</hi> Charity?</p>
+               <p>
+                  <hi>A.</hi> I muſt try, 1. Whether I forgive every one, and bear <hi>no Malice nor Hatred in my Heart,</hi> but wiſh my Enemies <hi>Repentance</hi> and <hi>Salvation.</hi> 2. Whether <hi>I la<g ref="char:EOLhyphen"/>bour for Peace,</hi> and neither ſeek nor give Occaſion of Contention. 3. Whether I love Good Men becauſe they are Good.</p>
+               <p>Q. 10. <hi>How muſt I examin my</hi> Obedience?</p>
+               <p>
+                  <hi>A.</hi> I muſt try, 1. Whether I make God's Word my Rule, and frame my Life thereafter. 2. Whether I am ready to obey all the Laws and Commands of God, without keeping any darling Sin or Luſt in my Soul.</p>
+               <pb n="5" facs="tcp:38465:4"/>
+               <p>Q. 11. <hi>What is requir'd of me at Receiving?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. To carry my ſelf decently, humbly, and re<g ref="char:EOLhyphen"/>verently. 2. To fix my Heart and Thoughts on this Sacred Ordinance and the bitter <hi>Paſſion</hi> and <hi>Sufferings</hi> of Chriſt, there repreſented to us. 3. According to my Ability, to give ſomewhat towards the Relief of the poor <hi>Members</hi> of Chriſt.</p>
+               <p>Q. 12. <hi>What is requir'd of me after my Receiving?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. To examin whether I receive Comfort by it. 2. To be joyful and thankful to God, for affording this bleſſed Opportunity of receiving, <hi>Pſ.</hi> 116.13. 3. To remember that I have now renew'd that Vow which, at firſt in Baptiſm, I made to God by my Sureties. 4. To be careful to pay to GOD and Man what I have ſo vow'd. 5. To ſhew my Love and Thankfulneſs to God, by holineſs of Life and Converſation; by loving his Word, <hi>i. e.</hi> by duly reading and meditating on it; by a ſtrict Obſervation of the Lord's Day, ſpending it in Devotion, eſpecially attending on <hi>publick Prayer</hi> and <hi>Preaching;</hi> being careful to remember, of every Sermon I hear, ſomewhat either for my Information or Reproof, or that tends to the promoting <hi>Piety</hi> to<g ref="char:EOLhyphen"/>wards GOD, or <hi>Charity</hi> to Men. And becauſe we are not able of our ſelves to perform the leaſt of theſe Du<g ref="char:EOLhyphen"/>ties here preſcrib'd, we ought therefore now and then to abſtain from a Meals Meat, and by <hi>Faſting, Prayer,</hi> and <hi>Humiliation</hi> to implore the Grace and Aſſiſtance of God's <hi>Holy Spirit,</hi> to enable us to perform theſe Duties, and keep us in the conſtant Practice thereof.</p>
+               <p>At ſuch time of <hi>Abſtinence</hi> it may be convenient to read and meditate on <hi>Pſalms</hi> 25, 39, 130. <hi>Iſaiah</hi> 55. <hi>Matth.</hi> 5. <hi>John.</hi> 6. &amp; 15. <hi>Romans</hi> 8. and <hi>Hebrews</hi> 12.</p>
+            </div>
+            <div type="part">
+               <p>Thus I have done with the Firſt Part that reſpects <hi>Knowledge,</hi> or what we ought to know of this Duty. Next follows what you are to practiſe.</p>
+               <div type="section">
+                  <p>
+                     <hi>On Sunday Morning get up betimes, and Read a Chapter; on your Knees wait or ſit ſilent a little time, caſting all worldly Thoughts out of your Mind. Then ſay this Pre<g ref="char:EOLhyphen"/>paratory Prayer, for Sunday Morning, at home:</hi>
+                  </p>
+                  <pb n="6" facs="tcp:38465:5"/>
+                  <p>MOST Great and Incomprehenſible Lord God! Thou art worthy of all Praiſe, and infinitely to be admir'd for thy Grace and Mercy in the Redem<g ref="char:EOLhyphen"/>ption of the World, by the Body and Blood of thy Son, whom thou haſt given to be Meat and Drink to them that Fear and Obey Thee. O Lord, I deſign this Morning to receive <hi>of that Bread, and Drink of that Cup</hi> that nouriſhes the Soul of all true Penitents. Lord, let the <hi>Inward and Spiritual Grace</hi> accompany the Bread and Wine, that ſo my Body may not only be <hi>Refreſh'd,</hi> but my Soul alſo <hi>Refreſh'd, Comfortcd,</hi> and <hi>Strengthen'd;</hi> that I may evermore continue Obedient to thee, Bleſſed Jeſus. O Lord, I beſeech thee, ſend forth <hi>thy Light</hi> and <hi>thy Truth,</hi> to Guide and Direct me. O Eſtabliſh me with <hi>thy free Spirit,</hi> that thou giveſt freely to them that ask in Faith, that Bleſſed Spirit that makes our Meditations of Thee to be ſweet, yea, ſweeter than <hi>Honey:</hi> It makes the Soul to rejoyce more than in plenty of Corn, Wine, and Oil. This is that that made <hi>Shadrach, Meſhach,</hi> and <hi>Abednego</hi> em<g ref="char:EOLhyphen"/>brace a Fiery Furnace; <hi>Daniel</hi> a Lyon's Den; St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> a Crucifixion; and <hi>John</hi> a Kettle of Boiling Oil: St. <hi>Bartholomew</hi> to be Flead; St. <hi>Bernard</hi> to cry out, <hi>Hold, hold, for my Heart is not able to cantain theſe Joys which thou doſt ſo liberally pour out upon me.</hi> Bleſſed God, let my Heart be thus tuned, and then ſhall I re<g ref="char:EOLhyphen"/>ceive Strength and Nouriſhment of Soul to Everlaſt<g ref="char:EOLhyphen"/>ing Life. All which I beg through the Merits of Jeſus Chriſt, to whom with the Father and the Holy Spirit, be all Glory and Praiſe, now and evermore. <hi>Amen.</hi>
+                  </p>
+                  <closer>Our Father which art in Heaven, <hi>&amp;c.</hi>
+                  </closer>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>Then repair to Church,</hi> &amp;c. <hi>And after Sermon is ended, ſay this Prayer before the Sacrament:</hi>
+                  </p>
+                  <p>MOST merciful and gracious Lord, who didſt In<g ref="char:EOLhyphen"/>ſtitute this Feaſt of Love for us vile and miſe<g ref="char:EOLhyphen"/>rable Sinners, utterly unworthy of the leaſt of thy Fa<g ref="char:EOLhyphen"/>vours, be pleas'd to help me to approach it with that <hi>Devotion, Reverence,</hi> and <hi>Humility</hi> that befits a worthy
+<pb n="7" facs="tcp:38465:5"/> Communicant at thy Table. Lord I come, out of a Senſe of my want of that Food from Heaven, to which thou moſt graciouſly doſt invite me. I come in Obe<g ref="char:EOLhyphen"/>dience to thy Commands, to teſtifie my Faith in Thee, and to commemorate thy unſpeakable Love in accom<g ref="char:EOLhyphen"/>pliſhing the work of my Redemption, by a moſt Shame<g ref="char:EOLhyphen"/>ful and Bitter Death. I come to renounce and caſt off my Sins and Tranſgreſſions, and to renew my Bap<g ref="char:EOLhyphen"/>tiſmal Covenant, which I have often and perverſly broken. O do thou for thy Mercy ſake accept me, though an unworthy Gueſt: <hi>Enter not into Judgment with thy Servant, for in thy Sight ſhall no Man living be juſtified.</hi> If thou, Lord, ſhould'ſt <hi>be extreme to mark</hi> what I have <hi>done amiſs,</hi> I muſt ſuffer all the Vials of thy <hi>Wrath;</hi> I muſt undergo all the Curſes of thy <hi>Law;</hi> I muſt ſtand expos'd to all the Judgments and Ter<g ref="char:EOLhyphen"/>rors of <hi>this Life,</hi> and to the intolerable Torments of <hi>Hell in another.</hi> So far ſhould I be in this Caſe from receiving any manner of Advantage from theſe Holy Myſteries, that I ſhould eat and drink my own Damnation. Miſerable wretched Creature that I am, that I ſhould ſo eagerly purſue the Paths that lead to Death and Miſery! that I ſhould ſo continually offend thee, my moſt tender and indulgent Father! that I ſhould trample under foot the <hi>Son of God,</hi> and repay that wonderful <hi>Love,</hi> and thoſe unknown Sufferings of His on my behalf, with thoſe Sins which at firſt Cruci<g ref="char:EOLhyphen"/>fied him, and ſtill continue to Crucifie him afreſh, and put him to an open Shame! that I ſhould grieve that good <hi>Spirit of God,</hi> which ſo earneſtly wooes and en<g ref="char:EOLhyphen"/>treats to accept of Life and Salvation! that I ſhould be guilty of ſo much Pride, Hypocriſie, Indevotion, and Deadneſs in my Prayers; of ſo much Injuſtice, Paſſion, and Malice, of ſo much Impenitency, Un<g ref="char:EOLhyphen"/>cleanneſs, Intemperance, <hi>&amp;c. [Here reckon up the par<g ref="char:EOLhyphen"/>ticular Sins thou haſt been guilty of]</hi> whereby I have wickedly departed from Thee, the <hi>Lord of Life</hi> and <hi>Glory,</hi> the Fountain and Spring of all Happineſs! Lord, I fly into the Arms of Thy Mercy: O ſave me
+<pb n="8" facs="tcp:38465:6"/> or I periſh. Hide me under the Clefts of thy Wounds until thy Father's Indignation be overpaſt. O thou that delighteſt not in the Death of a Sinner, but ra<g ref="char:EOLhyphen"/>ther that he ſhould turn and be ſaved, receive me to thy Favour, for the Merits and Satisfaction of my Bleſ<g ref="char:EOLhyphen"/>ſed Redeemer, in <hi>whom</hi> alone thou art <hi>well pleaſed.</hi> His Blood was ſhed to make Atonement for my Sins: His Body was bruiſed and beaten with Stripes, that thro' them I might be healed. Lord grant, that in this Bleſſed Sacrament, I may effectually receive theſe Benefits of his <hi>Death</hi> and <hi>Paſſion;</hi> grant that I may have my Pardon ſeal'd, my Weakneſs repair'd, my Graces ſtrengthen'd, and my Soul raiſed to Heaven in <hi>Flames</hi> of devouteſt <hi>Affection</hi> and <hi>Adoration.</hi> O do thou nouriſh my Soul by this immortal Food, to live the Life of <hi>Grace</hi> and <hi>Holineſs,</hi> and enable it to make ſome Returns of Love to Thee, the infinite <hi>Lover of Souls:</hi> But oh! What Returns can be ſufficient, what Tranſports of Love and Praiſe can be enough for Him, who died a moſt painful and ignominious Death, to deliver us from inevitable Ruin and Miſery, when we were his bitter Enemies, and at open Defiance and Rebellion againſt him? Oh the <hi>Riches</hi> of thy <hi>Goodneſs,</hi> how unutterable are thy <hi>Mercies,</hi> and how unconcei<g ref="char:EOLhyphen"/>vable is thy Love! Grant I pray thee, that tho' I am utterly unable to make a true eſtimation thereof, yet I may love Thee to the utmoſt capacity of a frail Crea<g ref="char:EOLhyphen"/>ture, and ſhew it by living in all holy Obedience and Conformity to thy <hi>Laws</hi> and <hi>Precepts.</hi> Grant that I may always deſire and endeavour to pleaſe thee; and be very tender and fearful of offending Thee; keep<g ref="char:EOLhyphen"/>ing a ſtrict Watch over my Heart and Ways, that no Temptations prevail againſt me, or make me fall from <hi>my own Stedfaſtneſs:</hi> But that being effectually Sancti<g ref="char:EOLhyphen"/>fied here, I may in the end be eternally Bleſt in the <hi>Kingdom of Glory.</hi>
+                  </p>
+                  <p>Lord, pity and commiſerate my Frailty, and gra<g ref="char:EOLhyphen"/>ciouſly ſupply all my Wants and Neceſſities; for thy Mercy and Compaſſion's ſake. <hi>Amen.</hi>
+                  </p>
+                  <closer>Our Father, <hi>&amp;c.</hi>
+                  </closer>
+                  <pb n="9" facs="tcp:38465:6"/>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>Now repair to the Communion-Table, and being placed con<g ref="char:EOLhyphen"/>veniently, lift up your Heart towards Heaven, and ſay,</hi>
+                  </p>
+                  <p>O Lamb of God that didſt offer thy ſelf a Sacrifice for the Sins of the whole World, have Mercy upon me miſerable Sinner. I am here ready to renew the Covenant I made with thee in Baptiſm, and once more to take thoſe ſolemn Engagements upon my ſelf: O do thou give me the Aſſiſtance of thy <hi>Grace</hi> and <hi>Holy Spirit,</hi> that I may be enabled to perform them; that I may henceforth renounce the Devil and all his Works, all the Pomps and Vanities of the World, and the ſin<g ref="char:EOLhyphen"/>ful Luſts of the Fleſh; that I may ſtedfaſtly perſiſt in the true Faith of thy moſt <hi>Holy Religion,</hi> and live in ſincere Obedience to thy Laws, all the Days of my Life.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>Juſt before Receiving, a Prayer.</hi>
+                  </p>
+                  <p>GRant, O Lord, I beſeech thee, that the Wine that makes glad, and the <hi>Bread of Life</hi> may infuſe new Strength and Vigour into my Soul, and into the Souls of all that Communicate with me; that we may daily grow in Grace, and in the Knowledge of our Lord and Saviour Jeſus Chriſt; and that (according to his Command) we may be united in Holy Love and Fel<g ref="char:EOLhyphen"/>lowſhip with one another, and with the Church of God; and at laſt obtain that glorious Fellowſhip with thy ſelf in Heaven, which thou haſt promiſed to all that love and fear thee, through the ſame Jeſus Chriſt our Lord.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>When you receive the Bread, ſay,</hi>
+                  </p>
+                  <p>GRant me, Bleſſed Lord, ſo to eat the Fleſh of thy dear Son Jeſus Chriſt, and ſo to drink his Blood, that my ſinful Body may be made clean by his moſt ho<g ref="char:EOLhyphen"/>ly Body, and my Soul waſht in his moſt precious Blood, that I may evermore dwell in him, and he in me.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>After you have received the Bread, ſay,</hi>
+                  </p>
+                  <p>O That the Bread which I have now eaten may be the Bread which came down from Heaven, and gives Life unto the World. O that I may now feel <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Efficacy, inflaming my Soul with the Heavenly
+<pb n="10" facs="tcp:38465:7"/> Ardours of <hi>Divine Love;</hi> having all my <hi>Affections fet on things Above, and not on things Below.</hi> May this Bread be to my Soul the ſtaff of Strength, whereby I may vanquiſh all the Aſſaults of the Devil, the World, and the Fleſh, and continue my Lord's faithful Ser<g ref="char:EOLhyphen"/>vant to my Life's end.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>At the receiving the Cup, ſay,</hi>
+                  </p>
+                  <p>THe Blood of our Lord Jeſus Chriſt, which was ſhed for me, preſerve my Body and Soul unto E<g ref="char:EOLhyphen"/>verlaſting Life: I drink this in Remembrance that <hi>Chriſt's Blood</hi> was ſhed for me, and am thankful.</p>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>After you have received the Cup, ſay,</hi>
+                  </p>
+                  <p>O That this precious Blood of my dear Redeemer may be now both the Purification and Nouriſh<g ref="char:EOLhyphen"/>ment of my Soul, the Seal of my Pardon, and Peace with God, and the Pledge of mine Inheritance in Heaven.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>Then return to your Pew or Seat, and ſay, on your Knees, this Thanksgiving after the Sacrament:</hi>
+                  </p>
+                  <p>BLeſſing, Honour, and Glory be given to thee, O Lord, for thy Love this Day diſcover'd to me; and for all the Benefits receiv'd at thy Table. What is <hi>Man that thou art mindful of him, or Son of Man that thou</hi> ſhould'ſt ſo regard him, as to ſuffer ſuch bitter things for his ſake; to be Scourged and Bruiſed for his Tranſgreſſions, and to bear upon thy Shoulders the Sins of a whole World? O the depth of the <hi>Riches</hi> of thy <hi>Mercy</hi> and <hi>Goodneſs!</hi> We have ſinned againſt thee, and thou thy ſelf haſt undergone the Puniſh<g ref="char:EOLhyphen"/>ment! We have perverſly run in the Paths that lead to Death and Damnation, and thou haſt undeſervedly merited <hi>Life</hi> and <hi>Salvation</hi> for us, and doſt wooe and entreat us to accept of it, and haſt ordain'd this Sa<g ref="char:EOLhyphen"/>crament to aſſure us of the Reality of thy gracious In<g ref="char:EOLhyphen"/>tentions towards us: <hi>Praiſe the Lord, O my Soul, and all that is within me praiſe his Holy Name! Praiſe the Lord, O Soul, and forget not all his Benefits; who forgi<g ref="char:EOLhyphen"/>veth all thy Sin, and healeth all thine Infirmities; who ſaveth thy Life from Deſtruction, and crowneth thee with
+<pb n="11" facs="tcp:38465:7"/> Mercy and loving Kindneſs!</hi> Lord, grant that this un<g ref="char:EOLhyphen"/>ſpeakable Love of thine may make me more and more a bound in Love to thee: Grant that it may conſtrain me to Obedience and good Living, and to a diligent Performance of all thoſe ſolemn Engagements I have now made unto thee. And ſince thou haſt purchaſed me with the ineſtimable Price of thy Blood, grant that I may continue wholly thine, and glorify thee both in Body and Spirit, <hi>by giving up my ſelf to thy Ser<g ref="char:EOLhyphen"/>vice, and by walking before thee in Holineſs and Righte<g ref="char:EOLhyphen"/>ouſneſs all my days.</hi> Thou haſt in infinite Mercy vouchſafed to unite thy ſelf to me miſerable and un<g ref="char:EOLhyphen"/>worthy Creature, thereby becoming the <hi>Strength, Life,</hi> and <hi>Support</hi> of my Soul: O grant that I may never diſſolve this <hi>Sacred Union,</hi> nor ſuffer any ſinful <hi>Luſt</hi> or unlawful <hi>Paſſion</hi> to take me out of thy Hand. And grant that (according to the Profeſſion of Charity I have made at thy Table) I may henceforward be Compaſſionate, and ready to forgive all Wrongs and Injuries, ſupply the Wants and Neceſſities of the <hi>Poor;</hi> that ſo in all things I may <hi>adorn the Goſpel of God my Saviour,</hi> and finally attain that Glorious Crown of <hi>Bliſs</hi> and <hi>Immortality,</hi> which thou haſt prepar'd for thy Saints in Heaven.</p>
+                  <p>Pardon, O my God, all my Sins and Failings, and perfect whatever Good Work thou haſt begun in me unto the Day of Chriſt. <hi>Direct, ſanctify, and govern both my Heart and Body in the ways of thy Laws, and in the Works of thy Commandments, that through thy moſt Mighty Protection both here and ever, I may be preſerved both in Body and Soul, through our Lord and Saviour Jeſus Chriſt.</hi> Amen.</p>
+                  <closer>Our Father, <hi>&amp;c.</hi>
+                  </closer>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>Then return home with a chearful Heart, and let a Holy Life be thy Care ever after.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Directions for Holy Living and Dying.</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>1.</hi> Directions how to Live well.</head>
+                  <p>IN the Morning awake with God, and offer up unto Him thy Morning-Sacrifice of Prayer: Firſt, Give
+<pb n="12" facs="tcp:38465:8"/> hearty Thanks for all his Mercies Spiritual and Tem<g ref="char:EOLhyphen"/>poral; and for thy Preſervation in the Night. <hi>Se<g ref="char:EOLhyphen"/>condly,</hi> Make an humble Confeſſion of thy Sins, and de<g ref="char:EOLhyphen"/>ſire Pardon. <hi>Thirdly,</hi> Ask ſuch Neceſſaries as are re<g ref="char:EOLhyphen"/>quiſite for thy Soul and Body, with fervent Requeſt to be reliev'd in them; and deſire his Bleſſing upon thy Labour in thy Calling. Always think that thou art before the Living God, and let the Remembrance hereof make thee afraid to Sin.</p>
+                  <p>Make Conſcience of Idle, Vain, Diſhoneſt, and Ungodly Thoughts; for theſe are the Seeds and Be<g ref="char:EOLhyphen"/>ginnings of actual Sin, in Word and Deed.</p>
+                  <p>Have a ſpecial Care to avoid thoſe Sins which thou findeſt thy Nature moſt prone unto, and eſchew thoſe Provocations which were wont moſt to prevail a<g ref="char:EOLhyphen"/>gainſt thee.</p>
+                  <p>Follow with Faithfulneſs and Diligence thy Law<g ref="char:EOLhyphen"/>ful Calling.</p>
+                  <p>Think thy preſent State and Condition to be the beſt State for thee.</p>
+                  <p>Look well to thy Carriage in Company, that thou do no hurt by Word or Example; nor take any thing from others, but endeavour rather to do good.</p>
+                  <p>Uſe Honeſty towards all Men: A good Conſcience and good Manners go together.</p>
+                  <p>If at any time thou art overtaken with any Sin, lie not in it, but ſpeedily recover thy ſelf by <hi>Repentance.</hi>
+                  </p>
+                  <p>When any good Deſire, Motion, or Affection doth ariſe in thine Heart, ſuffer it not to paſs away, but feed it by Reading, Meditating, or Praying.</p>
+                  <p>Eſteem every Day as the Day of thy Death; and therefore live now, even as though thou wert now Dying; and do thoſe good Duties every Day, which thou would'ſt do if this were thy Dying Day.</p>
+                  <p>At the end of the Day, before thou ſleepeſt, call to mind how thou haſt ſpent the Day paſt: Thy Miſdo<g ref="char:EOLhyphen"/>ings repent, and praiſe God for aſſiſting thee with his Grace in the Duties which thou haſt perform'd.</p>
+                  <p>Sleep not, at Night, before thou haſt commended
+<pb n="13" facs="tcp:38465:8"/> thy ſelf by Prayer into the Hands of God; for thou knoweſt not whether (fall'n aſleep) thou ſhalt riſe a<g ref="char:EOLhyphen"/>gain to live here.</p>
+                  <p>Let Prayer be the Key to open the Morning, and the Bar to ſhut in the Evening. <hi>Walk as the Children of Light.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>II.</hi> Directions how to Die well.</head>
+                  <p>THink that the greateſt Work thou haſt to do in this World, is to Die well. They which Die well, Die not to Die, but to Live Eternally.</p>
+                  <p>Be every Day ready to leave this Life. That Man doth finiſh his Days beſt, that every Day eſteemeth the laſt Day of his Life to be preſent and at hand.</p>
+                  <p>Endeavour before Death come to pull out his Sting, and take from him his Power and Strength, by hum<g ref="char:EOLhyphen"/>bling thy ſelf in the time preſent for all thy Sins paſt, and by turning unto God for the time to come. That Man can never die ill, that taketh care to live well.</p>
+                  <p>Innure thy ſelf by little and little to Die, before thou come to that Point that thou muſt needs Die. He that leaves the World before the World leaves him, gives Death the Hand like a welcome Meſſen<g ref="char:EOLhyphen"/>ger, and departs in Peace.</p>
+                  <p>When thou art Viſited with Sickneſs, or Old-age, think either of theſe are Warnings for thee e'er long to appear before the Great Judge of all the World: Therefore now prepare to ſet all things in good order, and make thine Accounts ready.</p>
+                  <p>Make a new Examination of thy Life and Conver<g ref="char:EOLhyphen"/>ſation paſſed. Make a Confeſſion unto God of thy new and particular Sins: As God ſendeth new Cor<g ref="char:EOLhyphen"/>rections and Chaſtiſements, make new Prayers, and more earneſt than ever before, for Pardon of thy Sins, and Reconciliation with God in Chriſt; by all means avoid thoſe Sins which thou findeſt and feeleſt en<g ref="char:EOLhyphen"/>creaſe the Wrath of God againſt thee.</p>
+                  <p>Be reconciled to thy Neighbour, freely forgiving them that have offended thee, and earneſtly deſire
+<pb n="14" facs="tcp:38465:9"/> to be forgiven of all that thou haſt offended. Set thine Houſe and Family in order, by diſpoſing of thy Worldly Goods in thy Will and Teſtament; thereby thou ſhalt Die not the more quickly, but the more quietly, and prevent the Brawls and Jars that other<g ref="char:EOLhyphen"/>wiſe (when thou art gone) may ariſe from thine <hi>Heirs.</hi> Thou parteſt with Earthly Poſſeſſions, and art going to take Poſſeſſion of Heavenly.</p>
+                  <p>In the laſt Agony of Death, when all things in and of the World do fail and forſake thee, reſt thy ſelf by Faith on the Favour and Mercy of God in Chriſt, and comfort thy ſelf in the Lord thy God. What ſhall <hi>ſepa<g ref="char:EOLhyphen"/>rate from the Love of God in Chriſt?</hi> Not <hi>Life nor Death.</hi>
+                  </p>
+                  <p>Let thine Heart and Tongue be ſtill employ'd in Prayer to the Lord: <hi>Firſt,</hi> For Patience in thy Trou<g ref="char:EOLhyphen"/>ble. <hi>Secondly,</hi> For Comfort in thine Affliction. <hi>Third<g ref="char:EOLhyphen"/>ly,</hi> For Strength in Weakneſs. <hi>Fourthly,</hi> For Deliver<g ref="char:EOLhyphen"/>ance at his Pleaſure. Yea, endeavour to Die Praying. When thou art in the depth of Miſeries, and at the Gates of Death, there is a depth of God's Mercy, which is ready to hear and help thee. Miſery muſt Call upon Mercy.</p>
+                  <p>Be willing and ready to depart out of this World without murmuring or repining, whenſoever, whereſo<g ref="char:EOLhyphen"/>ever, or howſoever it ſhall pleaſe the Lord to call thee. For why ſhouldeſt thou unwillingly ſuffer a ſhort Death that will bring thee to the Fruition of Eternal Joys: Perſwade thy ſelf, that if thou Live, by the Mercy of God, thou ſhalt do well; but if thou Die, doubt not but thou ſhalt do better.</p>
+                  <p>Laſtly, when thou feeleſt Death approaching, com<g ref="char:EOLhyphen"/>mend thy Soul unto God: He gave it, to Him ſurren<g ref="char:EOLhyphen"/>der it again. So laying thy ſelf down to ſleep and reſt, God ſhall make thee to dwell in everlaſting Safety. <hi>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Death leaveth thee, ſo ſhall Judgment find thee.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <list>
+                     <head>To preſerve thy Body in Cleanneſs.</head>
+                     <item>Often meditate of God and good things.</item>
+                     <item>Care<g ref="char:EOLhyphen"/>fully watch over thine Eyes and Ears.</item>
+                     <item>Be always do<g ref="char:EOLhyphen"/>ing ſomething that is good.</item>
+                  </list>
+                  <pb n="15" facs="tcp:38465:9"/>
+                  <list>
+                     <head>To preſerve thy Tongue from Sin.</head>
+                     <item>Forethink whether it be lawful and fit to be ſpoken.</item>
+                     <item>Avoid all ſuperfluity of Words.</item>
+                     <item>Affirm the Truth.</item>
+                  </list>
+                  <list>
+                     <head>To keep thy Life in Holineſs.</head>
+                     <item>Do all things as in God's Sight.</item>
+                     <item>Eſchew ill Company.</item>
+                     <item>Think daily of thy Death.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="dialogue">
+               <head>A <hi>Dialogue</hi> between a <hi>BEGGAR</hi> and a <hi>DIVINE.</hi>
+               </head>
+               <p>THere was a certain Divine, famous in Learning and Piety, that did earneſtly importune God, by Prayer, for ſome time together, thinking he had not the true Knowledge of the Ways of God (notwith<g ref="char:EOLhyphen"/>ſtanding his much Learning) begging that God would give him to know more of Him and himſelf, and di<g ref="char:EOLhyphen"/>rect him to ſome that would teach him the way of Truth: And being inflamed at a certain time with vehemency of Deſire, a Voice, as was ſuppoſed, ſpake thus to him: <hi>Go forth into the Church-yard, and there thou may'ſt find a Man that can Teach thee the way.</hi> And going forth, he found there a certain Beggar, with patch'd and torn Apparel, and filthy dirty Feet, whoſe Cloaths were not worth Three-half-pence, whom he ſpoke thus unto:</p>
+               <sp>
+                  <speaker>Divine.</speaker>
+                  <p>
+                     <hi>God give thee a good Morning.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Beggar,</speaker>
+                  <p>Sir, I do not remember I ever had an evil one.</p>
+               </sp>
+               <sp>
+                  <speaker>Div.</speaker>
+                  <p>
+                     <hi>God make thee fortunate and proſperous: Why ſpeakeſt thou in this manner?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Beg.</speaker>
+                  <p>Neither was I unproſperous, nei<g ref="char:EOLhyphen"/>ther was I ever unhappy.</p>
+               </sp>
+               <sp>
+                  <speaker>Div.</speaker>
+                  <p>
+                     <hi>God ſave thee; ſpeak now plainly.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Beg.</speaker>
+                  <p>Truly Sir, I will do it willingly: Sir, thou didſt wiſh me a proſperous and good Morn<g ref="char:EOLhyphen"/>ing, and I anſwer'd I never had an evil one; for when I am pinch'd with Hunger, I praiſe God; if I ſuffer Cold, if it Snow, Hail, or Rain; be the Weather fair or foul, I praiſe God; and therefore there never hap<g ref="char:EOLhyphen"/>ned any ſad or evil Morning unto me. Thou didſt likewiſe wiſh that I might be fortunate: I ſaid I was never unfortunate, becauſe whatever God gave me, I
+<pb n="16" facs="tcp:38465:10"/> ſuffer'd; or whatever hapned to me, whether it were agreeable, ſweet or bitter to me, I gladly received it at his Hands, as the beſt; and therefore I was never unfortunate. Thou ſaid'ſt moreover, That God would be pleas'd to make me happy; whereunto I likewiſe anſwer'd, That I never had been unhappy; for I am fully reſolv'd (thro' his Grace) to adhere and cleave to the Will of God; and for this Cauſe, as I ſaid, I was never unhappy, in that I cleave to his Will only, and have wholly reſign'd mine own.</p>
+               </sp>
+               <sp>
+                  <speaker>Div.</speaker>
+                  <p>
+                     <hi>This is very ſtrange! But what, I pray thee, would'ſt thou do, if the Lord of Majeſty ſhould caſt thee into the bottomleſs Pit? Could'ſt thou be content with his Will?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Beg.</speaker>
+                  <p>Drown me in the bottomleſs Pit! Why, certainly, if he ſhould, I have two Arms, by which I would ſtill embrace him; the one is true Humility, and that I lay under him, and by him I am united to his Sacred Humanity; the other, and that is the Right one (which is Love) is u<g ref="char:EOLhyphen"/>nited to his Divinity; and by his Love from himſelf, I hold him ſo faſt, that he would go down to Hell with me; and it is much better for me to be in Hell with God, than in Heaven without him.</p>
+                  <p>By this the Divine learnt that the moſt compendi<g ref="char:EOLhyphen"/>ous way to God is true Reſignation, with profound Humility. Hereupon the Divine ſpake again to the Beggar, and ask'd him,</p>
+               </sp>
+               <sp>
+                  <speaker>Div.</speaker>
+                  <p>
+                     <hi>Whence comeſt thou?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Beg.</speaker>
+                  <p>From God.</p>
+               </sp>
+               <sp>
+                  <speaker>Div.</speaker>
+                  <p>
+                     <hi>Where found'ſt thou God?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Beg.</speaker>
+                  <p>Even where I left all the Crea<g ref="char:EOLhyphen"/>tures.</p>
+               </sp>
+               <sp>
+                  <speaker>Div.</speaker>
+                  <p>
+                     <hi>I pray thee, Friend, who art thou?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Beg.</speaker>
+                  <p>Who am I? Truly, I am a King; and Jeſus himſelf crown'd me with Peace, Power, and Reſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Div.</speaker>
+                  <p>
+                     <hi>A King! Where is thy Kingdom?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Beg.</speaker>
+                  <p>The Kingdom of Heaven is in me, that is, in my Soul; and I can now, and do, by his Power (not my own) in me, ſo govern and com<g ref="char:EOLhyphen"/>mand all my inward Parts and Senſes, that all the Affections and Powers of the Old Man in my Soul, are conquer'd, and are in ſubjection to me; which King<g ref="char:EOLhyphen"/>dom no Man can doubt but is better than all the King<g ref="char:EOLhyphen"/>doms and Glories in the World.</p>
+               </sp>
+               <sp>
+                  <speaker>Div.</speaker>
+                  <p>
+                     <hi>What brought
+<pb n="17" facs="tcp:38465:10"/> thee to this Perfection?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Beg.</speaker>
+                  <p>My ſublime Meditations, and Union with that great God of <hi>Peace,</hi> and Improve<g ref="char:EOLhyphen"/>ment of Mercies to his <hi>Glory,</hi> and by growing in Grace, adding one Grace unto another; and I could reſt in nothing leſs than an Aſſurance of God's Love, and this I have found: I have forſaken the unquiet World, and in him I have <hi>Peace of Conſcience,</hi> and therein I reſt.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>A Deſcription of Chriſt's Perſon, according to <hi>Publ. Lentulus</hi>'s News to the Senate of <hi>Rome.</hi>
+               </head>
+               <p>IN the Days of <hi>Tiberius Caeſar,</hi> as the Governours of ſundry Provinces under the Senate and People of <hi>Rome</hi> us'd to advertiſe the Senate of ſuch News as hapned in divers Countries, <hi>Publius Lentulus</hi> being at that time Preſident in <hi>Judea,</hi> wrote an Epiſtle to the Senate and People of <hi>Rome,</hi> the words theſe:</p>
+               <p>There appear'd, in theſe our Days, a Man of great Virtue, named <hi>Jeſus Chriſt,</hi> who is yet living among us, and of the <hi>Gentiles</hi> is accepted as a Prophet of Truth, but his own Diſciples call him the <hi>Son of God.</hi> He rai<g ref="char:EOLhyphen"/>ſes the Dead, and cures all ſorts of Diſeaſes; a Man of ſtature ſomewhat tall, and comely, with a very re<g ref="char:EOLhyphen"/>verend Countenance, ſuch as the Beholders may both love and fear; his Hair is of the colour of a Philbert full ripe, and plain almoſt down to his Ears, but thence downwards ſomewhat curl'd, and more orient of co<g ref="char:EOLhyphen"/>lour, wavering about his Shoulders; in the midſt of it goeth a Seam or Partition, after the manner of the <hi>Nazarites;</hi> his Forehead plain and ſmooth; his Face without ſpot or wrinkle, beautified with a comely red; his Noſe and Mouth ſo form'd, as nothing can be re<g ref="char:EOLhyphen"/>prehended; his Beard pretty thick, agreeable in co<g ref="char:EOLhyphen"/>lour to the Hair of his Head, not of any great length, but forked in the midſt; of an innocent and mature Look, his Eyes grey, clear, and quick. In reproving he is terrible; in admoniſhing, courteous and fair ſpoken; pleaſant in Speech, mixt with Gravity. It can't be remembred that any have ſeen him laugh, but</p>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:38465:11"/>
+               <head>Of the Perſecution in Queen <hi>Mary's</hi> Reign.</head>
+               <p>BIſhop <hi>Jewel</hi> writes, That in the 5 years Reign of Q. <hi>Mary</hi> was martyr'd 277 Perſons, <hi>viz.</hi> 5 Biſhops, 8 Gentlemen, 21 Miniſters, 84 Tradeſmen, 100 Huſ<g ref="char:EOLhyphen"/>bandmen, Labourers, and Servants, 20 Widows, 26 Wives, 9 Virgins, 2 Boys, 2 Infants, one ſprung from the Womb as its Mother was burning at the Stake, ſo flung into the Fire at the very Birth; 64 were alſo perſecuted for their Religion, 7 of 'em whipt, 16 died in Priſon, 12 buried in Dunghils, and many lay in Captivity till the Reign of Q. <hi>Elizabeth.</hi> In the Year 1572, 30000 <hi>Proteſtants</hi> were maſſacred by <hi>Papiſts</hi> in <hi>France,</hi> &amp;c. In the Year 1642, above 100000 <hi>Prote<g ref="char:EOLhyphen"/>ſtants</hi> were maſſacred in <hi>Ireland.</hi> Many more Cruel<g ref="char:EOLhyphen"/>ties our Hiſtorians mention, which here is not room to inſert.</p>
+            </div>
+            <div type="part">
+               <head>Biſhop <hi>Uſher</hi>'s Prophecy.</head>
+               <p>THis pious Man had, at ſeveral times, many things impreſs'd on his Mind concerning future Events, and with that warm<g ref="char:EOLhyphen"/>neſs, that he could not keep 'em ſecret. He (by the Holy Spirit) foretold the Iriſh Rebellion 40 Years before it came, and the time it would break out. From this Prophetick Spirit he foreſaw the Miſeries of <hi>England</hi> in Church and State, and gave mournful In<g ref="char:EOLhyphen"/>timations of the Death of King <hi>Charles</hi> I. From this Spirit he foreſaw his own Poverty, as to Worldly Things: From this Spi<g ref="char:EOLhyphen"/>rit he predicted the Diviſions and Confuſions in <hi>England</hi> about Religion, and the ſad Conſequences of it; ſome whereof we have ſeen fulfill'd, and I pray God the reſt may not be accompliſh'd. And laſtly, From this Spirit he foretold, that the greateſt Stroke upon the Reform'd Chriſtians was yet to come, and the time of the utter Ruin of <hi>Rome</hi> ſhould be when ſhe thought her ſelf moſt ſecure.</p>
+               <p>His Opinion of Sanctification, that is, of the New Creature, which God formeth by his Spirit in every Soul which he doth truly regenerate. I find (ſays he) ſo little of it wrought in my ſelf, that I can ſpeak of it only as Parrots, by rote, and without the Knowledg and Underſtanding of what I might have expreſs'd, and therefore I durſt not preſume to proceed any farther upon it. I muſt tell you (ſays he) we do not well underſtand what <hi>Sancti<g ref="char:EOLhyphen"/>fication</hi> and the <hi>New Creature</hi> are: It is no leſs than for a Man to be brought to an entire Reſignation of his Will to the Will of GOD, and to live in the offering up of his Soul continually in Flames of Love, as a whole Burnt-Offering to Chriſt. And how little (continues he) are many of thoſe who profeſs Chriſtianity
+<pb n="21" facs="tcp:38465:11"/> experimentally acquainted with this Work on their Souls!</p>
+               <p>I ask'd him then, what his preſent Apprehenſions were concer<g ref="char:EOLhyphen"/>ning a great Perſecution which ſhould fall on the Church of God in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> which he had ſpoke of many Years before, when we were in Peace? and, Whether they were paſt, or to come? He told me they were to come, and that this ſad Perſecution would fall on all the Proteſtant Churches in <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi> He was told, that it was hoped it might be paſt as to theſe Nations; inſtancing the Judgments that had befallen us, tho' not ſo great as we deſerv'd. He anſwer'd, (the Power of God ſeeming to be upon him, to conſtrain him to ſpeak, which Mr. <hi>B.</hi> ſays he could eaſily diſcern much to differ from the Countenance where<g ref="char:EOLhyphen"/>with he uſually ſpoke to him) Fool not yourſelf with ſuch Hopes, for I tell you, all that you have yet ſeen, are but the beginning of Sorrows, to what is yet to come on the Proteſtant Churches of Chriſt, who will e'er long fall under a ſharper Perſecution than ever yet has fell upon them: And therefore, ſaid he, look you be not found in the outward Court, but a Worſhipper in the Temple before the Altar, for Chriſt will reſcue all thoſe that profeſs his Name, and call themſelves his People; but the outward Wor<g ref="char:EOLhyphen"/>ſhippers he will leave out to be trodden down by the <hi>Gentiles.</hi>
+               </p>
+               <p>The outward Court (ſays he) is the formal Chriſtian, whoſe Religion lies in performing outſide Duties of Chriſtianity, with<g ref="char:EOLhyphen"/>out having an inward Life, and Power of Faith and Love, uniting them to Chriſt; and theſe God will leave to be trodden down, and ſwept away by the <hi>Gentiles:</hi> But the Worſhippers within the Temple, and before the Altar, are thoſe who <hi>do indeed worſhip</hi> GOD <hi>in Spirit and in Truth,</hi> whoſe Souls are made his Temples, and He is honoured and adored in the moſt inward Thoughts of their Hearts, and they ſacrifice their Luſts and vile Affections, yea, and their own Wills to him; and theſe God will hide in the hol<g ref="char:EOLhyphen"/>low of his Hand, and under the ſhadow of his Wings. And this, ſaid he, ſhall be one great Difference between the laſt, and all the other preceeding Perſecutions; for in the former, the moſt emi<g ref="char:EOLhyphen"/>nent Spiritual Chriſtians did generally ſuffer moſt, but in this laſt Perſecution, theſe ſhall be preſerv'd by GOD as a Seed to partake of the Glory that ſhall immediately follow, and come upon the Church, as ſoon as ever this Storm ſhall be over; for as this ſhall be the ſharpeſt, ſo ſhall it be the ſhorteſt Perſecution of them all, and ſhall only take away the groſs Hypocrites, and formal Profeſ<g ref="char:EOLhyphen"/>ſors; but the true Believers ſhall be preſerv'd till the Calamity be over-paſt. Mr. <hi>B.</hi> then ask'd him, <hi>By whom;</hi> He ſaid, <hi>By the Papiſts,</hi> and in a way of ſudden Maſſacre, and that the <hi>Pope</hi> ſhould be the chief Inſtrument of it.</p>
+               <p>He then added, That the <hi>Papiſts</hi> were (in his Opinion) the <hi>Gentiles</hi> ſpoken of in <hi>Revelat.</hi> 11. to whom the outward Court ſhould be left, that they might tread it under foot, they having receiv'd the <hi>Gentiles</hi> Worſhip, in their adoring Images, and
+<pb n="22" facs="tcp:38465:12"/> Saints departed, and in taking to themſelves many Mediators: And this (ſaid he) the <hi>Papiſts</hi> are now deſigning among them<g ref="char:EOLhyphen"/>ſelves, and therefore be you ready.</p>
+               <p>This is the Subſtance, ſays Mr. <hi>B.</hi> of what he ſpoke to me, and he repeated the ſame (in Subſtance) to the Lady <hi>Tyrel,</hi> and the Lady <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+            </div>
+            <div type="account">
+               <head>An Account of the <hi>Spaniſh</hi> Invaſion.</head>
+               <p>IN the 31ſt Year of Queen <hi>Elizabeth,</hi> 1588, <hi>Philip</hi> the Second, King of <hi>Spain,</hi> ſet forth a mighty Fleet, which, for its mighty Greatneſs, they call'd it, <hi>The Invincible Armado.</hi> It conſiſted of 150 tall Ships, in which was 20000 Soldiers. The Duke of <hi>Parma</hi> alſo was deſign'd to bring out of <hi>Flanders</hi> Fifty-thouſand more to join them; it had likewiſe 8600 Mariners, 2080 Gally-Slaves, 2630 Great Guns, and abundance of Boats and Tenders beſide, with Proviſions. The <hi>Pope,</hi> 'tis ſaid alſo, contributed a Million of Money. All theſe were to Land at the <hi>Thames</hi> Mouth. The Queen hearing of it, provided two Guards, one for the Sea, and another for the Land; that by Land was divided into Two Armies, one of Twenty-two thouſand two hundred Foot, and One thouſand Horſe, Commanded by the Earl of <hi>Leiceſter,</hi> at <hi>Tilbury,</hi> where the Queen came and view'd her Army, to the great Encou<g ref="char:EOLhyphen"/>ragement of Her Soldiers, both by Her Preſence and Speech to them. Her Guard at Sea were, in number, One hundred and For<g ref="char:EOLhyphen"/>ty Ships, divided into Three Squadrons, Commanded by Admiral <hi>Howard,</hi> Vice-Admiral <hi>Drake,</hi> and Rear-Admiral <hi>Seymour.</hi> The <hi>Spaniards</hi> having enter'd our Seas, the Queen commanded the Lord-Admiral to prepare Eight of Her worſt Ships for Fire-ſhips, which, in the dead of the Night were ſent down the Wind among the <hi>Spaniſh</hi> Fleet, which ſo ſurpriz'd and alarm'd them, not un<g ref="char:EOLhyphen"/>derſtanding the Invention, that they immediately cut their Cables, and weigh'd Anchor, and put to Sea; upon which the Queen's Fleet, under the Command of Sir <hi>Francis Drake</hi> and o<g ref="char:EOLhyphen"/>thers, took ſome of them, drove others on the Sands, others were toſſed to and fro, and mangl'd and rack'd: So that more than one half of them were loſt, returning home with Shame and Diſho<g ref="char:EOLhyphen"/>nour: And of the <hi>Engliſh</hi> were loſt only One Ship of ſmall Va<g ref="char:EOLhyphen"/>lue. So that this Fleet, that was Three Years preparing, was in a Month's Time overthrown, with the Loſs of a Multitude of <hi>Spaniards.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
